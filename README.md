@@ -7,4 +7,6 @@ Define the ideal-points model with full of references
 this space and the bill’s position.
 
 ## Parameters
-two different positions - bill and political stance
+- Parameterized 
+  1) bill's semantic and its relative position represented on certain space 
+  2) political stance of voter also represented on certain space 
