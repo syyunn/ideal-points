@@ -7,7 +7,12 @@ Define the ideal-points model with full of references
 this space and the bill’s position.
 - Lawmaker has both a general position and a sparse set of position adjustments, (those adjustments are) one for each issue.
 
+## Backgrounds
+- Ideal point models are based on item response theory, a statistical theory that models how members
+of a population judge a set of items
+
 ## Parameters
 - Parameterized 
   1) bill's semantic and its relative position represented on certain space 
   2) political stance of voter also represented on certain space 
+
